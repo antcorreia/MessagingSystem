@@ -1,0 +1,4 @@
+jmanuel 127.0.0.1 pass yes no no
+zezoca 193.136.212.195 pass yes yes yes
+pc1 193.136.212.138 pass yes yes yes
+pc3 193.136.212.194 pass yes yes yes
